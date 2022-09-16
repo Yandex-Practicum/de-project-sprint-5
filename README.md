@@ -8,7 +8,7 @@
 2. Скопируйте репозиторий на свой локальный компьютер, в качестве пароля укажите ваш `Access Token` (получить нужно на странице [Personal Access Tokens](https://github.com/settings/tokens)):
 	* `git clone https://github.com/{{ username }}/de-project-sprint-5.git`
 3. Перейдите в директорию с проектом: 
-	* `cd de-project-4`
+	* `cd de-project-sprint-5`
 4. Выполните проект и сохраните получившийся код в локальном репозитории:
 	* `git add .`
 	* `git commit -m 'my best commit'`
